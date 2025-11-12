@@ -112,6 +112,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [AI Agents Course - Hugging Face](https://huggingface.co/learn/agents-course/)
 - [Building AI Browser Agents - Deeplearning.ai](https://www.deeplearning.ai/short-courses/building-ai-browser-agents/)
 - [GenAI Agents - Github](https://github.com/NirDiamant/GenAI_Agents)
+- [AI Agents in Action, Second Edition - Book](https://www.manning.com/books/ai-agents-in-action-second-edition)
 
 ## Model Context Protocol (MCP)
 - [MCP - Anthropic Guide](https://modelcontextprotocol.io/introduction)
