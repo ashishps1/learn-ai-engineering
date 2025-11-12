@@ -148,6 +148,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Build an AI Agent (From Scratch)](https://www.manning.com/books/build-an-ai-agent-from-scratch)
 - [Build an LLM Application (from Scratch)](https://www.manning.com/books/build-llm-applications-from-scratch)
 - [AI Agents in Action](https://www.manning.com/books/gpt-agents-in-action)
+- [AI Agents in Action, Second Edition](https://www.manning.com/books/ai-agents-in-action-second-edition)
 - [LLMs in Production](https://www.manning.com/books/llms-in-production)
 
 ## YouTube Channels
