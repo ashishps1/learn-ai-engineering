@@ -93,6 +93,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Cursor](https://www.cursor.com/)
 - [Windsurf](https://windsurf.com/editor)
 - [GitHub Copilot](https://github.com/features/copilot)
+- [TRAE](https://www.trae.ai/)
 
 ### Agentic Coding Tools
 - [Claude Code](https://code.claude.com/docs/en/overview)
