@@ -81,6 +81,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Anthropic](https://docs.anthropic.com/en/docs/overview)
 - [Gemini - Google](https://ai.google.dev/gemini-api/docs)
 - [Groq - Inference](https://groq.com/)
+- [MiniMax](https://platform.minimax.io)
 
 ### LLM Tools & Frameworks
 - [LangChain](https://www.langchain.com/)
