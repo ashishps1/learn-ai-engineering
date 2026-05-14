@@ -154,6 +154,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [AI Agents in Action](https://www.manning.com/books/gpt-agents-in-action)
 - [AI Agents in Action, Second Edition](https://www.manning.com/books/ai-agents-in-action-second-edition)
 - [LLMs in Production](https://www.manning.com/books/llms-in-production)
+- [Building Agentic Applications with CrewAI and MCP](https://www.manning.com/books/building-agentic-applications-with-crewai-and-mcp)
 
 ## YouTube Channels
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
