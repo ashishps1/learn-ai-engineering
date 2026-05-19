@@ -49,6 +49,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [The Building Blocks of Generative AI](https://shriftman.substack.com/p/the-building-blocks-of-generative)
 - [Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
 - [Generative AI for Everyone - Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)
+- [AIHumanLove](https://aihumanlove.com/) - Free AI tools directory with 1,500+ tools, free AI courses for beginners, a 175+ prompt library, and 37 interactive experiments. EN/ES/PT.
 
 ## Large Language Models (LLMs)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
