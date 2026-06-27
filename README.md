@@ -81,6 +81,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Anthropic](https://docs.anthropic.com/en/docs/overview)
 - [Gemini - Google](https://ai.google.dev/gemini-api/docs)
 - [Groq - Inference](https://groq.com/)
+- [Tuning Engines](https://www.tuningengines.com/) - OpenAI-compatible API layer for governed inference, traces, approvals, and cost visibility across models, agents, MCP servers, and skills.
 
 ### LLM Tools & Frameworks
 - [LangChain](https://www.langchain.com/)
@@ -128,6 +129,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [ML in Production - Coursera](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
 - [ML System Design - Stanford](https://stanford-cs329s.github.io/syllabus.html)
+- [Tuning Engines Docs](https://app.tuningengines.com/docs) - Practical docs for OpenAI-compatible runtime governance, orchestration integrations, MCP, traces, approvals, and usage controls.
 
 ### Tools
 - [Streamlit](https://streamlit.io/)
