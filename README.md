@@ -1,5 +1,7 @@
 # Learn AI Engineering
 
+[![Listed on TakoAPI](https://takoapi.com/api/badge/ashishps1-learn-ai-engineering)](https://takoapi.com/agents/ashishps1-learn-ai-engineering)
+
 A comprehensive collection of free resources to learn everything about AI/ML, LLMs and Agents.
 
 ## Mathematical Foundations
