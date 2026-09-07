@@ -65,6 +65,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [LLM Course - GitHub](https://github.com/mlabonne/llm-course)
 - [LLM Course - Hugging Face](https://huggingface.co/learn/llm-course/chapter1/1)
 - [Awesome LLM Apps - GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [AI Engineer Notebooks - GitHub](https://github.com/calmrocks/ai-engineer-notebooks)
 
 ### LLM Chatbots
 - [ChatGPT](https://chatgpt.com/)
