@@ -18,6 +18,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Elements of AI – University of Helsinki](https://course.elementsofai.com/)
 - [Machine Learning Playlist - Josh Strarmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 - [Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Machine Learning Foundations - QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=learn-ai-engineering)
 
 ### Machine Learning Frameworks
 - [Scikit-learn](https://scikit-learn.org/stable/)
